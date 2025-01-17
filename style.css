@@ -1,0 +1,101 @@
+.link-catalog {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.link-basket {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.main-heading {
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 70px;
+}
+
+.text-main {
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.line-height {
+    line-height: 32px;
+}
+
+.special-offer {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    color: #000000;
+}
+
+.armchair {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+
+.characteristics-chair {
+    font-size: 14px;
+    line-height: 17px;
+    color: #888888;
+}
+
+.price-chair{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #050505;
+}
+
+.changed-price {
+    text-decoration-line: line-through;
+    color: #888888;
+}
+.menu,
+.contacts {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+
+.footer a {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #888888;
+    text-decoration: none;
+}
+
+.news {
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
+}
+
+.mail {
+    background: #FFFFFF;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+    border-radius: 20px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #C4C4C4;
+}
+
+.button {
+    background: rgba(222, 215, 215, 0.41);
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 20px;
+    width: 275px;
+    height: 46px;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+}
